@@ -151,11 +151,4 @@ The application includes the following tables:
 - **orders**: Customer orders
 - **order_items**: Individual items in orders
 
-## <a name="links">🔗 Assets</a>
-
-Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/nikecom-kit)**.
-
-<a href="https://jsm.dev/nikecom-kit" target="_blank">
-  <img src="public/readme/videokit.webp" alt="Video Kit Banner">
-</a>
 
